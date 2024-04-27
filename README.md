@@ -1,3 +1,3 @@
 # minecraft-ending-japanese
 マイクラのエンディングを日本語化するだけです。
-ルールは自分が作ったと言わなければ大丈夫です。
+文章はMinecraft Wikiから取ってきたのでライセンスはCC-BY-NC-SAです。
